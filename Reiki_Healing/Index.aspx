@@ -12,7 +12,7 @@ From my experience, I learned that to be an effective healer of others I must fi
         
             
             <div class="cleaner"></div>
-        </div>
+        
         
        
     
