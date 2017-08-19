@@ -131,7 +131,7 @@
     <div id="templatemo_footer">
     	
          <a runat="server" href="~/Index" class="current">Home</a> | <a runat="server" href="~/About">About Us</a> | <a runat="server" href="~/Services">Services</a> | <a runat="server" href="~/Booking">Booking</a> | <a runat="server" href="~/Testimony">Testimony</a> | <a runat="server" href="~/Contact">Contact Us</a> <br /><br />
-    	Copyright © 2017 <a href="#">Reiki and Heeling House pvt ltd</a>
+    	Copyright © 2017 <a href="#">Reiki and Healing House pvt ltd</a>
     
     </div> <!-- end of footer -->
 	
