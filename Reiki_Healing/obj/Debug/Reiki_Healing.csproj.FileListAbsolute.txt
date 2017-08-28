@@ -122,3 +122,5 @@ C:\Users\CEPL\Source\Repos\Reiki_Healing\Reiki_Healing\bin\Microsoft.AI.Web.xml
 C:\Users\CEPL\Source\Repos\Reiki_Healing\Reiki_Healing\obj\Debug\Reiki_Healing.csprojResolveAssemblyReference.cache
 C:\Users\CEPL\Source\Repos\Reiki_Healing\Reiki_Healing\obj\Debug\Reiki_Healing.dll
 C:\Users\CEPL\Source\Repos\Reiki_Healing\Reiki_Healing\obj\Debug\Reiki_Healing.pdb
+C:\Users\CEPL\Source\Repos\Reiki_Healing\Reiki_Healing\bin\MySql.Data.dll
+C:\Users\CEPL\Source\Repos\Reiki_Healing\Reiki_Healing\bin\MySql.Data.xml
