@@ -146,6 +146,7 @@
     <Content Include="Index.aspx" />
     <Content Include="jquery.tabs.css" />
     <Content Include="Privacy.aspx" />
+    <Content Include="reiki_healing.sql" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
